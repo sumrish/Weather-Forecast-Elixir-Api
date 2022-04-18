@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="ja_serializer" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/ja_serializer/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+      <root url="file://$PROJECT_DIR$/deps/ja_serializer/lib" />
+    </SOURCES>
+  </library>
+</component>
