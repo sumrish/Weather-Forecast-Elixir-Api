@@ -2,6 +2,8 @@
 
 This is a microservice written in Elixir language and is using a third party api's for fetching the weather forecast on the basis of the city,country name as an input.
 
+The microservice is designed to provide beginners the idea of how elixir works in backend and how a basic rest api is created using that.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
